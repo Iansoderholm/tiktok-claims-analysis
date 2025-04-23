@@ -1,6 +1,6 @@
 # TikTok Claims Classification Project 📊
 
-This project was completed as part of the Google Advanced Data Analytics Certificate. It simulates a real-world scenario where TikTok's data team is developing a machine learning model to classify whether content contains *claims* or *opinions*. My role involved preparing the data for analysis and communicating initial findings to stakeholders.
+This project was completed as part of a course project. It simulates a real-world scenario where TikTok's data team is developing a machine learning model to classify whether content contains *claims* or *opinions*. My role involved preparing the data for analysis and communicating initial findings to stakeholders.
 
 ## 🔍 Project Scope
 The goal was to:
